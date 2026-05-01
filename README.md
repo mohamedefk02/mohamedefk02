@@ -93,6 +93,7 @@ Stuff I use to get things done (and occasionally suffer):
   <img src="https://img.shields.io/badge/Firebase-Services-orange?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/REST-APIs-black?style=for-the-badge" />
 </p>
+
 ---
 
 ## 📦 Projects
